@@ -13,9 +13,8 @@ Same as above, asked to incorporate inquirer to generate a unique readme after a
 
 # Screen Shot of Application/Link to Video.
 I've uninstalled Screencastify twice and all I could get it to do was record my tabs but never anything else. I will include a screenshot of the prompts.
-<img width="1920" alt="Screenshot 2023-08-07 at 14 29 16 (2)" src="https://github.com/Kpeterson23/hw9readme/assets/124640874/2bffe687-3553-43cc-a9a1-fff5d4a2f333">
-![Uploading Screenshot 2023-08-07 at 14.29.16.png…]()
 
+<img width="1470" alt="Screenshot 2023-08-07 at 14 35 59" src="https://github.com/Kpeterson23/hw9readme/assets/124640874/370f6d99-10d2-466b-9b23-a9f79fe1c7a9">
 
 
 
