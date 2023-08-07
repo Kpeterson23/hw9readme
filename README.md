@@ -1,4 +1,4 @@
-# hw9readme
+# ReadME Generator
 
 Modifying the existing code so you can generate a unique readme doc after answered the prompts
 
